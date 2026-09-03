@@ -4,7 +4,7 @@ Contact info:
 - https://github.com/asa-pao
 - www.linkedin.com/in/asapao
 
-![RMNP Skiing at Longs Peak](/assests/imgs/longs.jpg "RMNP Skiing near Longs Peak")
+![RMNP Skiing at Longs Peak](/assets/imgs/longs.jpg "RMNP Skiing near Longs Peak")
 
 Hello all! I am a master's student in Geography and Teaching Assistant at the University of Colorado Boulder, focusing on GIS, remote sensing, LMs, and conflict studies. I'm interested in how technology plays a role in contemporary conflict (insurgency, interstate, tribal, etc.) and how it can be used to better understand modern conflict, humanitarian risks, and government accountability. I received my BA in International Affairs in 2026 with a focus in Foreign Policy & Political Geography, and a foundation in GIS & Data Science. I graduated with latin honors (summa) and completed a thesis on AI & Drone use in contemporary kill chains (yeah this topic still haunts me in my dreams). I'm pursuing geography because there's something special about the relationship between GIS/space and our globe... 
 
