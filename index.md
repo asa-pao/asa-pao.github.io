@@ -12,3 +12,4 @@ Not all I do is academic fortunately! I also have many hobbies: Cycle/Downhill/X
 
 
 Relationship with Earth Sciences:
+- I'm a \#contributer in Earth Analytics Data Science Bootcamp F26
