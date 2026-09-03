@@ -1,3 +1,7 @@
+<head>
+  
+</head>
+
 # Asa Paonaskar
 Contact info:
 - <a href="mailto:asa.paonaskar@colorado.edu"> Email </a>
