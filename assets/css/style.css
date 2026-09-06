@@ -278,3 +278,19 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 .link-button:hover {
   background-color: #000000;
 }
+
+.projcard-bg {
+  background-color: #1c1c1c
+}
+
+.projcard-dif {
+  background-color:#f1f1f1
+}
+
+.hr-opacity {
+  opacity:0.60
+}
+
+.img-padding img{
+  margin-bottom: 10px;
+  margin-top: 10px
