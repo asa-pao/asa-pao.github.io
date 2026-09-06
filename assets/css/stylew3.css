@@ -253,6 +253,11 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
     font-size: 28px;
   }
   .w3-jumbo {
-    font-size: 36px;
+          text-align: center;
+          text-transform: uppercase;
+          font-size: 8vw; 
+          white-space: nowrap; 
+          overflow: hidden;
+          margin: 0;
   } 
 }
