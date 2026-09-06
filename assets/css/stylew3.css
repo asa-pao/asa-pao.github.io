@@ -105,6 +105,9 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
   body {
     padding: 10px 20px; 
   }
+  h1 {
+    font-size: 28px;
+  }
 }
 
 .w3-top,.w3-bottom{position:fixed;width:100%;z-index:1}.w3-top{top:0}.w3-bottom{bottom:0}
