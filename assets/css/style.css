@@ -265,11 +265,10 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 .link-button {
   display: inline-block;
   padding: 10px 20px;
-  background-color: #007bff;
+  background-color: #000000;
   color: #ffffff;
   text-decoration: none;
   border-radius: 5px;
-  font-family: sans-serif;
   font-weight: bold;
   text-align: center;
   transition: background-color 0.2s ease;
@@ -277,5 +276,5 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 
 /* mouse effect */
 .link-button:hover {
-  background-color: #0056b3;
+  background-color: #0d0d0d;
 }
