@@ -1,0 +1,4103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="378.883mm"
+   height="191.558mm"
+   version="1.1"
+   id="svg398"
+   sodipodi:docname="rain_graph_sm.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview398"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="3.189947"
+     inkscape:cx="673.05194"
+     inkscape:cy="651.89171"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg398" />
+  <title
+     id="title1">rain_graph_sm</title>
+  <desc
+     id="desc1">Rendered by Tableau</desc>
+  <defs
+     id="defs75">
+    <clipPath
+       id="clipPath1">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M56,666 L1433,666 L1433,725 L56,725 L56,666"
+         id="path1" />
+    </clipPath>
+    <clipPath
+       id="clipPath2">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M-1,-1 L58,-1 L58,668 L-1,668 L-1,-1"
+         id="path2" />
+    </clipPath>
+    <clipPath
+       id="clipPath3">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M57,0 L1433,0 L1433,668 L57,668 L57,0"
+         id="path3" />
+    </clipPath>
+    <clipPath
+       id="clipPath4">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M57,0 L1433,0 L1433,668 L57,668 L57,0"
+         id="path4" />
+    </clipPath>
+    <clipPath
+       id="clipPath5">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M57,0 L1433,0 L1433,668 L57,668 L57,0"
+         id="path5" />
+    </clipPath>
+    <clipPath
+       id="clipPath6">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M57,0 L1433,0 L1433,668 L57,668 L57,0"
+         id="path6" />
+    </clipPath>
+    <clipPath
+       id="clipPath7">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M57,0 L1433,0 L1433,668 L57,668 L57,0"
+         id="path7" />
+    </clipPath>
+    <clipPath
+       id="clipPath8">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M57,0 L1433,0 L1433,668 L57,668 L57,0"
+         id="path8" />
+    </clipPath>
+    <clipPath
+       id="clipPath9">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M57,0 L1433,0 L1433,668 L57,668 L57,0"
+         id="path9" />
+    </clipPath>
+    <clipPath
+       id="clipPath10">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M57,0 L1433,0 L1433,668 L57,668 L57,0"
+         id="path10" />
+    </clipPath>
+    <clipPath
+       id="clipPath11">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M57,0 L1432,0 L1432,667 L57,667 L57,0"
+         id="path11" />
+    </clipPath>
+    <clipPath
+       id="clipPath12">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M57,0 L1433,0 L1433,668 L57,668 L57,0"
+         id="path12" />
+    </clipPath>
+    <clipPath
+       id="clipPath13">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M57,0 L1432,0 L1432,667 L57,667 L57,0"
+         id="path13" />
+    </clipPath>
+    <clipPath
+       id="clipPath14">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M57,0 L1433,0 L1433,668 L57,668 L57,0"
+         id="path14" />
+    </clipPath>
+    <clipPath
+       id="clipPath15">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M57,0 L1432,0 L1432,667 L57,667 L57,0"
+         id="path15" />
+    </clipPath>
+    <clipPath
+       id="clipPath16">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M57,0 L1433,0 L1433,668 L57,668 L57,0"
+         id="path16" />
+    </clipPath>
+    <clipPath
+       id="clipPath17">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M57,0 L1432,0 L1432,667 L57,667 L57,0"
+         id="path17" />
+    </clipPath>
+    <clipPath
+       id="clipPath18">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M57,0 L1433,0 L1433,668 L57,668 L57,0"
+         id="path18" />
+    </clipPath>
+    <clipPath
+       id="clipPath19">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M57,0 L1433,0 L1433,668 L57,668 L57,0"
+         id="path19" />
+    </clipPath>
+    <clipPath
+       id="clipPath20">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M57,0 L1432,0 L1432,667 L57,667 L57,0"
+         id="path20" />
+    </clipPath>
+    <clipPath
+       id="clipPath21">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M57,0 L1433,0 L1433,668 L57,668 L57,0"
+         id="path21" />
+    </clipPath>
+    <clipPath
+       id="clipPath22">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M57,0 L1432,0 L1432,667 L57,667 L57,0"
+         id="path22" />
+    </clipPath>
+    <clipPath
+       id="clipPath23">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M57,0 L1433,0 L1433,668 L57,668 L57,0"
+         id="path23" />
+    </clipPath>
+    <clipPath
+       id="clipPath24">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M57,0 L1432,0 L1432,667 L57,667 L57,0"
+         id="path24" />
+    </clipPath>
+    <clipPath
+       id="clipPath25">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M57,0 L1433,0 L1433,668 L57,668 L57,0"
+         id="path25" />
+    </clipPath>
+    <clipPath
+       id="clipPath26">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M57,0 L1432,0 L1432,667 L57,667 L57,0"
+         id="path26" />
+    </clipPath>
+    <clipPath
+       id="clipPath27">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M57,0 L1432,0 L1432,667 L57,667 L57,0"
+         id="path27" />
+    </clipPath>
+    <clipPath
+       id="clipPath28">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M57,0 L1432,0 L1432,667 L57,667 L57,0"
+         id="path28" />
+    </clipPath>
+    <clipPath
+       id="clipPath29">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M57,0 L1432,0 L1432,667 L57,667 L57,0"
+         id="path29" />
+    </clipPath>
+    <clipPath
+       id="clipPath30">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M57,0 L1433,0 L1433,668 L57,668 L57,0"
+         id="path30" />
+    </clipPath>
+    <clipPath
+       id="clipPath31">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M57,0 L1433,0 L1433,668 L57,668 L57,0"
+         id="path31" />
+    </clipPath>
+    <clipPath
+       id="clipPath32">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M57,0 L1432,0 L1432,667 L57,667 L57,0"
+         id="path32" />
+    </clipPath>
+    <clipPath
+       id="clipPath33">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M57,0 L1433,0 L1433,668 L57,668 L57,0"
+         id="path33" />
+    </clipPath>
+    <clipPath
+       id="clipPath34">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M57,0 L1432,0 L1432,667 L57,667 L57,0"
+         id="path34" />
+    </clipPath>
+    <clipPath
+       id="clipPath35">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M57,0 L1433,0 L1433,668 L57,668 L57,0"
+         id="path35" />
+    </clipPath>
+    <clipPath
+       id="clipPath36">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M57,0 L1432,0 L1432,667 L57,667 L57,0"
+         id="path36" />
+    </clipPath>
+    <clipPath
+       id="clipPath37">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M57,0 L1433,0 L1433,668 L57,668 L57,0"
+         id="path37" />
+    </clipPath>
+    <clipPath
+       id="clipPath38">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M57,0 L1432,0 L1432,667 L57,667 L57,0"
+         id="path38" />
+    </clipPath>
+    <clipPath
+       id="clipPath39">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M57,0 L1433,0 L1433,668 L57,668 L57,0"
+         id="path39" />
+    </clipPath>
+    <clipPath
+       id="clipPath40">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M57,0 L1433,0 L1433,668 L57,668 L57,0"
+         id="path40" />
+    </clipPath>
+    <clipPath
+       id="clipPath41">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M57,0 L1432,0 L1432,667 L57,667 L57,0"
+         id="path41" />
+    </clipPath>
+    <clipPath
+       id="clipPath42">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M57,0 L1433,0 L1433,668 L57,668 L57,0"
+         id="path42" />
+    </clipPath>
+    <clipPath
+       id="clipPath43">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M57,0 L1432,0 L1432,667 L57,667 L57,0"
+         id="path43" />
+    </clipPath>
+    <clipPath
+       id="clipPath44">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M57,0 L1433,0 L1433,668 L57,668 L57,0"
+         id="path44" />
+    </clipPath>
+    <clipPath
+       id="clipPath45">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M57,0 L1432,0 L1432,667 L57,667 L57,0"
+         id="path45" />
+    </clipPath>
+    <clipPath
+       id="clipPath46">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M57,0 L1433,0 L1433,668 L57,668 L57,0"
+         id="path46" />
+    </clipPath>
+    <clipPath
+       id="clipPath47">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M57,0 L1432,0 L1432,667 L57,667 L57,0"
+         id="path47" />
+    </clipPath>
+    <clipPath
+       id="clipPath48">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M57,0 L1432,0 L1432,667 L57,667 L57,0"
+         id="path48" />
+    </clipPath>
+    <clipPath
+       id="clipPath49">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M57,0 L1432,0 L1432,667 L57,667 L57,0"
+         id="path49" />
+    </clipPath>
+    <clipPath
+       id="clipPath50">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M57,0 L1432,0 L1432,667 L57,667 L57,0"
+         id="path50" />
+    </clipPath>
+    <clipPath
+       id="clipPath51">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M57,0 L1433,0 L1433,668 L57,668 L57,0"
+         id="path51" />
+    </clipPath>
+    <clipPath
+       id="clipPath52">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M57,0 L1433,0 L1433,668 L57,668 L57,0"
+         id="path52" />
+    </clipPath>
+    <clipPath
+       id="clipPath53">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M57,0 L1432,0 L1432,667 L57,667 L57,0"
+         id="path53" />
+    </clipPath>
+    <clipPath
+       id="clipPath54">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M57,0 L1433,0 L1433,668 L57,668 L57,0"
+         id="path54" />
+    </clipPath>
+    <clipPath
+       id="clipPath55">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M57,0 L1432,0 L1432,667 L57,667 L57,0"
+         id="path55" />
+    </clipPath>
+    <clipPath
+       id="clipPath56">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M57,0 L1433,0 L1433,668 L57,668 L57,0"
+         id="path56" />
+    </clipPath>
+    <clipPath
+       id="clipPath57">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M57,0 L1432,0 L1432,667 L57,667 L57,0"
+         id="path57" />
+    </clipPath>
+    <clipPath
+       id="clipPath58">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M57,0 L1433,0 L1433,668 L57,668 L57,0"
+         id="path58" />
+    </clipPath>
+    <clipPath
+       id="clipPath59">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M57,0 L1432,0 L1432,667 L57,667 L57,0"
+         id="path59" />
+    </clipPath>
+    <clipPath
+       id="clipPath60">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M57,0 L1433,0 L1433,668 L57,668 L57,0"
+         id="path60" />
+    </clipPath>
+    <clipPath
+       id="clipPath61">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M57,0 L1433,0 L1433,668 L57,668 L57,0"
+         id="path61" />
+    </clipPath>
+    <clipPath
+       id="clipPath62">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M57,0 L1432,0 L1432,667 L57,667 L57,0"
+         id="path62" />
+    </clipPath>
+    <clipPath
+       id="clipPath63">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M57,0 L1433,0 L1433,668 L57,668 L57,0"
+         id="path63" />
+    </clipPath>
+    <clipPath
+       id="clipPath64">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M57,0 L1432,0 L1432,667 L57,667 L57,0"
+         id="path64" />
+    </clipPath>
+    <clipPath
+       id="clipPath65">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M57,0 L1433,0 L1433,668 L57,668 L57,0"
+         id="path65" />
+    </clipPath>
+    <clipPath
+       id="clipPath66">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M57,0 L1432,0 L1432,667 L57,667 L57,0"
+         id="path66" />
+    </clipPath>
+    <clipPath
+       id="clipPath67">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M57,0 L1433,0 L1433,668 L57,668 L57,0"
+         id="path67" />
+    </clipPath>
+    <clipPath
+       id="clipPath68">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M57,0 L1432,0 L1432,667 L57,667 L57,0"
+         id="path68" />
+    </clipPath>
+    <clipPath
+       id="clipPath69">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M57,0 L1432,0 L1432,667 L57,667 L57,0"
+         id="path69" />
+    </clipPath>
+    <clipPath
+       id="clipPath70">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M57,0 L1432,0 L1432,667 L57,667 L57,0"
+         id="path70" />
+    </clipPath>
+    <clipPath
+       id="clipPath71">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M57,0 L1432,0 L1432,667 L57,667 L57,0"
+         id="path71" />
+    </clipPath>
+    <clipPath
+       id="clipPath72">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M57,0 L1433,0 L1433,668 L57,668 L57,0"
+         id="path72" />
+    </clipPath>
+    <clipPath
+       id="clipPath73">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M57,0 L1433,0 L1433,668 L57,668 L57,0"
+         id="path73" />
+    </clipPath>
+    <clipPath
+       id="clipPath74">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M57,0 L1433,0 L1433,668 L57,668 L57,0"
+         id="path74" />
+    </clipPath>
+    <clipPath
+       id="clipPath75">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M57,0 L1433,0 L1433,668 L57,668 L57,0"
+         id="path75" />
+    </clipPath>
+  </defs>
+  <g
+     fill="none"
+     stroke="black"
+     stroke-width="1"
+     fill-rule="evenodd"
+     stroke-linecap="square"
+     stroke-linejoin="bevel"
+     id="g398"
+     style="fill-rule:nonzero">
+    <g
+       fill="#ffffff"
+       fill-opacity="1"
+       stroke="none"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Benton Sans Book"
+       font-size="13.3333"
+       font-weight="400"
+       font-style="normal"
+       id="g75"
+       style="fill-rule:nonzero">
+      <rect
+         x="0"
+         y="0"
+         width="1432"
+         height="724"
+         id="rect75"
+         style="fill-rule:nonzero" />
+    </g>
+    <g
+       fill="#ffffff"
+       fill-opacity="1"
+       stroke="none"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Benton Sans Book"
+       font-size="13.3333"
+       font-weight="400"
+       font-style="normal"
+       id="g76"
+       style="fill-rule:nonzero">
+      <rect
+         x="0"
+         y="0"
+         width="1432"
+         height="724"
+         id="rect76"
+         style="fill-rule:nonzero" />
+    </g>
+    <g
+       clip-path="url(#clipPath1)"
+       id="g78"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#000000"
+         stroke-opacity="1"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,667)"
+         font-family="Benton Sans Book"
+         font-size="13.3333"
+         font-weight="400"
+         font-style="normal"
+         id="g77"
+         style="fill-rule:nonzero" />
+    </g>
+    <g
+       clip-path="url(#clipPath1)"
+       id="g90"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#f5f5f5"
+         stroke-opacity="1"
+         stroke-width="1"
+         stroke-linecap="butt"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,667)"
+         font-family="Benton Sans Book"
+         font-size="13.3333"
+         font-weight="400"
+         font-style="normal"
+         id="g89"
+         style="fill-rule:nonzero">
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="108,0 108,5 "
+           id="polyline78"
+           style="fill-rule:nonzero" />
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="219,0 219,5 "
+           id="polyline79"
+           style="fill-rule:nonzero" />
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="331,0 331,5 "
+           id="polyline80"
+           style="fill-rule:nonzero" />
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="442,0 442,5 "
+           id="polyline81"
+           style="fill-rule:nonzero" />
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="553,0 553,5 "
+           id="polyline82"
+           style="fill-rule:nonzero" />
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="665,0 665,5 "
+           id="polyline83"
+           style="fill-rule:nonzero" />
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="776,0 776,5 "
+           id="polyline84"
+           style="fill-rule:nonzero" />
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="887,0 887,5 "
+           id="polyline85"
+           style="fill-rule:nonzero" />
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="999,0 999,5 "
+           id="polyline86"
+           style="fill-rule:nonzero" />
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="1110,0 1110,5 "
+           id="polyline87"
+           style="fill-rule:nonzero" />
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="1222,0 1222,5 "
+           id="polyline88"
+           style="fill-rule:nonzero" />
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="1333,0 1333,5 "
+           id="polyline89"
+           style="fill-rule:nonzero" />
+      </g>
+    </g>
+    <g
+       clip-path="url(#clipPath1)"
+       id="g139"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#f5f5f5"
+         stroke-opacity="1"
+         stroke-width="1"
+         stroke-linecap="butt"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,667)"
+         font-family="Benton Sans Book"
+         font-size="13.3333"
+         font-weight="400"
+         font-style="normal"
+         id="g138"
+         style="fill-rule:nonzero">
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="19,0 19,2 "
+           id="polyline90"
+           style="fill-rule:nonzero" />
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="41,0 41,2 "
+           id="polyline91"
+           style="fill-rule:nonzero" />
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="63,0 63,2 "
+           id="polyline92"
+           style="fill-rule:nonzero" />
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="86,0 86,2 "
+           id="polyline93"
+           style="fill-rule:nonzero" />
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="130,0 130,2 "
+           id="polyline94"
+           style="fill-rule:nonzero" />
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="152,0 152,2 "
+           id="polyline95"
+           style="fill-rule:nonzero" />
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="175,0 175,2 "
+           id="polyline96"
+           style="fill-rule:nonzero" />
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="197,0 197,2 "
+           id="polyline97"
+           style="fill-rule:nonzero" />
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="242,0 242,2 "
+           id="polyline98"
+           style="fill-rule:nonzero" />
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="264,0 264,2 "
+           id="polyline99"
+           style="fill-rule:nonzero" />
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="286,0 286,2 "
+           id="polyline100"
+           style="fill-rule:nonzero" />
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="308,0 308,2 "
+           id="polyline101"
+           style="fill-rule:nonzero" />
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="353,0 353,2 "
+           id="polyline102"
+           style="fill-rule:nonzero" />
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="375,0 375,2 "
+           id="polyline103"
+           style="fill-rule:nonzero" />
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="397,0 397,2 "
+           id="polyline104"
+           style="fill-rule:nonzero" />
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="420,0 420,2 "
+           id="polyline105"
+           style="fill-rule:nonzero" />
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="464,0 464,2 "
+           id="polyline106"
+           style="fill-rule:nonzero" />
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="487,0 487,2 "
+           id="polyline107"
+           style="fill-rule:nonzero" />
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="509,0 509,2 "
+           id="polyline108"
+           style="fill-rule:nonzero" />
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="531,0 531,2 "
+           id="polyline109"
+           style="fill-rule:nonzero" />
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="576,0 576,2 "
+           id="polyline110"
+           style="fill-rule:nonzero" />
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="598,0 598,2 "
+           id="polyline111"
+           style="fill-rule:nonzero" />
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="620,0 620,2 "
+           id="polyline112"
+           style="fill-rule:nonzero" />
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="642,0 642,2 "
+           id="polyline113"
+           style="fill-rule:nonzero" />
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="687,0 687,2 "
+           id="polyline114"
+           style="fill-rule:nonzero" />
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="709,0 709,2 "
+           id="polyline115"
+           style="fill-rule:nonzero" />
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="732,0 732,2 "
+           id="polyline116"
+           style="fill-rule:nonzero" />
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="754,0 754,2 "
+           id="polyline117"
+           style="fill-rule:nonzero" />
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="798,0 798,2 "
+           id="polyline118"
+           style="fill-rule:nonzero" />
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="821,0 821,2 "
+           id="polyline119"
+           style="fill-rule:nonzero" />
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="843,0 843,2 "
+           id="polyline120"
+           style="fill-rule:nonzero" />
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="865,0 865,2 "
+           id="polyline121"
+           style="fill-rule:nonzero" />
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="910,0 910,2 "
+           id="polyline122"
+           style="fill-rule:nonzero" />
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="932,0 932,2 "
+           id="polyline123"
+           style="fill-rule:nonzero" />
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="954,0 954,2 "
+           id="polyline124"
+           style="fill-rule:nonzero" />
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="977,0 977,2 "
+           id="polyline125"
+           style="fill-rule:nonzero" />
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="1021,0 1021,2 "
+           id="polyline126"
+           style="fill-rule:nonzero" />
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="1043,0 1043,2 "
+           id="polyline127"
+           style="fill-rule:nonzero" />
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="1066,0 1066,2 "
+           id="polyline128"
+           style="fill-rule:nonzero" />
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="1088,0 1088,2 "
+           id="polyline129"
+           style="fill-rule:nonzero" />
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="1132,0 1132,2 "
+           id="polyline130"
+           style="fill-rule:nonzero" />
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="1155,0 1155,2 "
+           id="polyline131"
+           style="fill-rule:nonzero" />
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="1177,0 1177,2 "
+           id="polyline132"
+           style="fill-rule:nonzero" />
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="1199,0 1199,2 "
+           id="polyline133"
+           style="fill-rule:nonzero" />
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="1244,0 1244,2 "
+           id="polyline134"
+           style="fill-rule:nonzero" />
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="1266,0 1266,2 "
+           id="polyline135"
+           style="fill-rule:nonzero" />
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="1288,0 1288,2 "
+           id="polyline136"
+           style="fill-rule:nonzero" />
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="1311,0 1311,2 "
+           id="polyline137"
+           style="fill-rule:nonzero" />
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="1355,0 1355,2 "
+           id="polyline138"
+           style="fill-rule:nonzero" />
+      </g>
+    </g>
+    <g
+       clip-path="url(#clipPath1)"
+       id="g141"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#666666"
+         stroke-opacity="1"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,667)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g140"
+         style="fill-rule:nonzero">
+        <text
+           fill="#666666"
+           fill-opacity="1"
+           stroke="none"
+           xml:space="preserve"
+           x="93.2188"
+           y="21"
+           font-family="Roboto Condensed"
+           font-size="15"
+           font-weight="400"
+           font-style="normal"
+           id="text139"
+           style="fill-rule:nonzero">1972</text>
+      </g>
+    </g>
+    <g
+       clip-path="url(#clipPath1)"
+       id="g143"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#666666"
+         stroke-opacity="1"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,667)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g142"
+         style="fill-rule:nonzero">
+        <text
+           fill="#666666"
+           fill-opacity="1"
+           stroke="none"
+           xml:space="preserve"
+           x="205.219"
+           y="21"
+           font-family="Roboto Condensed"
+           font-size="15"
+           font-weight="400"
+           font-style="normal"
+           id="text141"
+           style="fill-rule:nonzero">1977</text>
+      </g>
+    </g>
+    <g
+       clip-path="url(#clipPath1)"
+       id="g145"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#666666"
+         stroke-opacity="1"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,667)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g144"
+         style="fill-rule:nonzero">
+        <text
+           fill="#666666"
+           fill-opacity="1"
+           stroke="none"
+           xml:space="preserve"
+           x="316.219"
+           y="21"
+           font-family="Roboto Condensed"
+           font-size="15"
+           font-weight="400"
+           font-style="normal"
+           id="text143"
+           style="fill-rule:nonzero">1982</text>
+      </g>
+    </g>
+    <g
+       clip-path="url(#clipPath1)"
+       id="g147"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#666666"
+         stroke-opacity="1"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,667)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g146"
+         style="fill-rule:nonzero">
+        <text
+           fill="#666666"
+           fill-opacity="1"
+           stroke="none"
+           xml:space="preserve"
+           x="427.719"
+           y="21"
+           font-family="Roboto Condensed"
+           font-size="15"
+           font-weight="400"
+           font-style="normal"
+           id="text145"
+           style="fill-rule:nonzero">1987</text>
+      </g>
+    </g>
+    <g
+       clip-path="url(#clipPath1)"
+       id="g149"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#666666"
+         stroke-opacity="1"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,667)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g148"
+         style="fill-rule:nonzero">
+        <text
+           fill="#666666"
+           fill-opacity="1"
+           stroke="none"
+           xml:space="preserve"
+           x="539.219"
+           y="21"
+           font-family="Roboto Condensed"
+           font-size="15"
+           font-weight="400"
+           font-style="normal"
+           id="text147"
+           style="fill-rule:nonzero">1992</text>
+      </g>
+    </g>
+    <g
+       clip-path="url(#clipPath1)"
+       id="g151"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#666666"
+         stroke-opacity="1"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,667)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g150"
+         style="fill-rule:nonzero">
+        <text
+           fill="#666666"
+           fill-opacity="1"
+           stroke="none"
+           xml:space="preserve"
+           x="650.219"
+           y="21"
+           font-family="Roboto Condensed"
+           font-size="15"
+           font-weight="400"
+           font-style="normal"
+           id="text149"
+           style="fill-rule:nonzero">1997</text>
+      </g>
+    </g>
+    <g
+       clip-path="url(#clipPath1)"
+       id="g153"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#666666"
+         stroke-opacity="1"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,667)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g152"
+         style="fill-rule:nonzero">
+        <text
+           fill="#666666"
+           fill-opacity="1"
+           stroke="none"
+           xml:space="preserve"
+           x="762.219"
+           y="21"
+           font-family="Roboto Condensed"
+           font-size="15"
+           font-weight="400"
+           font-style="normal"
+           id="text151"
+           style="fill-rule:nonzero">2002</text>
+      </g>
+    </g>
+    <g
+       clip-path="url(#clipPath1)"
+       id="g155"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#666666"
+         stroke-opacity="1"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,667)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g154"
+         style="fill-rule:nonzero">
+        <text
+           fill="#666666"
+           fill-opacity="1"
+           stroke="none"
+           xml:space="preserve"
+           x="873.219"
+           y="21"
+           font-family="Roboto Condensed"
+           font-size="15"
+           font-weight="400"
+           font-style="normal"
+           id="text153"
+           style="fill-rule:nonzero">2007</text>
+      </g>
+    </g>
+    <g
+       clip-path="url(#clipPath1)"
+       id="g157"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#666666"
+         stroke-opacity="1"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,667)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g156"
+         style="fill-rule:nonzero">
+        <text
+           fill="#666666"
+           fill-opacity="1"
+           stroke="none"
+           xml:space="preserve"
+           x="984.219"
+           y="21"
+           font-family="Roboto Condensed"
+           font-size="15"
+           font-weight="400"
+           font-style="normal"
+           id="text155"
+           style="fill-rule:nonzero">2012</text>
+      </g>
+    </g>
+    <g
+       clip-path="url(#clipPath1)"
+       id="g159"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#666666"
+         stroke-opacity="1"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,667)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g158"
+         style="fill-rule:nonzero">
+        <text
+           fill="#666666"
+           fill-opacity="1"
+           stroke="none"
+           xml:space="preserve"
+           x="1096.22"
+           y="21"
+           font-family="Roboto Condensed"
+           font-size="15"
+           font-weight="400"
+           font-style="normal"
+           id="text157"
+           style="fill-rule:nonzero">2017</text>
+      </g>
+    </g>
+    <g
+       clip-path="url(#clipPath1)"
+       id="g161"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#666666"
+         stroke-opacity="1"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,667)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g160"
+         style="fill-rule:nonzero">
+        <text
+           fill="#666666"
+           fill-opacity="1"
+           stroke="none"
+           xml:space="preserve"
+           x="1207.22"
+           y="21"
+           font-family="Roboto Condensed"
+           font-size="15"
+           font-weight="400"
+           font-style="normal"
+           id="text159"
+           style="fill-rule:nonzero">2022</text>
+      </g>
+    </g>
+    <g
+       clip-path="url(#clipPath1)"
+       id="g163"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#666666"
+         stroke-opacity="1"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,667)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g162"
+         style="fill-rule:nonzero">
+        <text
+           fill="#666666"
+           fill-opacity="1"
+           stroke="none"
+           xml:space="preserve"
+           x="1318.22"
+           y="21"
+           font-family="Roboto Condensed"
+           font-size="15"
+           font-weight="400"
+           font-style="normal"
+           id="text161"
+           style="fill-rule:nonzero">2027</text>
+      </g>
+    </g>
+    <g
+       clip-path="url(#clipPath1)"
+       id="g165"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#333333"
+         stroke-opacity="1"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,667)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g164"
+         style="fill-rule:nonzero">
+        <text
+           fill="#333333"
+           fill-opacity="1"
+           stroke="none"
+           xml:space="preserve"
+           x="651.031"
+           y="46"
+           font-family="Roboto Condensed"
+           font-size="15"
+           font-weight="400"
+           font-style="normal"
+           id="text163"
+           style="fill-rule:nonzero">Year of Date</text>
+      </g>
+    </g>
+    <g
+       fill="none"
+       stroke="#333333"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,57,667)"
+       font-family="Roboto Condensed"
+       font-size="15"
+       font-weight="400"
+       font-style="normal"
+       id="g166"
+       style="fill-rule:nonzero" />
+    <g
+       clip-path="url(#clipPath2)"
+       id="g168"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#333333"
+         stroke-opacity="1"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,0,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g167"
+         style="fill-rule:nonzero" />
+    </g>
+    <g
+       clip-path="url(#clipPath2)"
+       id="g182"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#f5f5f5"
+         stroke-opacity="1"
+         stroke-width="1"
+         stroke-linecap="butt"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,0,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g181"
+         style="fill-rule:nonzero">
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="52,667 57,667 "
+           id="polyline168"
+           style="fill-rule:nonzero" />
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="52,618 57,618 "
+           id="polyline169"
+           style="fill-rule:nonzero" />
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="52,569 57,569 "
+           id="polyline170"
+           style="fill-rule:nonzero" />
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="52,520 57,520 "
+           id="polyline171"
+           style="fill-rule:nonzero" />
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="52,470 57,470 "
+           id="polyline172"
+           style="fill-rule:nonzero" />
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="52,421 57,421 "
+           id="polyline173"
+           style="fill-rule:nonzero" />
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="52,372 57,372 "
+           id="polyline174"
+           style="fill-rule:nonzero" />
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="52,323 57,323 "
+           id="polyline175"
+           style="fill-rule:nonzero" />
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="52,274 57,274 "
+           id="polyline176"
+           style="fill-rule:nonzero" />
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="52,225 57,225 "
+           id="polyline177"
+           style="fill-rule:nonzero" />
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="52,175 57,175 "
+           id="polyline178"
+           style="fill-rule:nonzero" />
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="52,126 57,126 "
+           id="polyline179"
+           style="fill-rule:nonzero" />
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="52,77 57,77 "
+           id="polyline180"
+           style="fill-rule:nonzero" />
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="52,28 57,28 "
+           id="polyline181"
+           style="fill-rule:nonzero" />
+      </g>
+    </g>
+    <g
+       clip-path="url(#clipPath2)"
+       id="g184"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#666666"
+         stroke-opacity="1"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,0,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g183"
+         style="fill-rule:nonzero">
+        <text
+           fill="#666666"
+           fill-opacity="1"
+           stroke="none"
+           xml:space="preserve"
+           x="31.2656"
+           y="663"
+           font-family="Roboto Condensed"
+           font-size="15"
+           font-weight="400"
+           font-style="normal"
+           id="text182"
+           style="fill-rule:nonzero">0.0</text>
+      </g>
+    </g>
+    <g
+       clip-path="url(#clipPath2)"
+       id="g186"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#666666"
+         stroke-opacity="1"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,0,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g185"
+         style="fill-rule:nonzero">
+        <text
+           fill="#666666"
+           fill-opacity="1"
+           stroke="none"
+           xml:space="preserve"
+           x="31.2656"
+           y="623"
+           font-family="Roboto Condensed"
+           font-size="15"
+           font-weight="400"
+           font-style="normal"
+           id="text184"
+           style="fill-rule:nonzero">0.5</text>
+      </g>
+    </g>
+    <g
+       clip-path="url(#clipPath2)"
+       id="g188"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#666666"
+         stroke-opacity="1"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,0,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g187"
+         style="fill-rule:nonzero">
+        <text
+           fill="#666666"
+           fill-opacity="1"
+           stroke="none"
+           xml:space="preserve"
+           x="31.2656"
+           y="574"
+           font-family="Roboto Condensed"
+           font-size="15"
+           font-weight="400"
+           font-style="normal"
+           id="text186"
+           style="fill-rule:nonzero">1.0</text>
+      </g>
+    </g>
+    <g
+       clip-path="url(#clipPath2)"
+       id="g190"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#666666"
+         stroke-opacity="1"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,0,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g189"
+         style="fill-rule:nonzero">
+        <text
+           fill="#666666"
+           fill-opacity="1"
+           stroke="none"
+           xml:space="preserve"
+           x="31.2656"
+           y="525"
+           font-family="Roboto Condensed"
+           font-size="15"
+           font-weight="400"
+           font-style="normal"
+           id="text188"
+           style="fill-rule:nonzero">1.5</text>
+      </g>
+    </g>
+    <g
+       clip-path="url(#clipPath2)"
+       id="g192"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#666666"
+         stroke-opacity="1"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,0,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g191"
+         style="fill-rule:nonzero">
+        <text
+           fill="#666666"
+           fill-opacity="1"
+           stroke="none"
+           xml:space="preserve"
+           x="31.2656"
+           y="475"
+           font-family="Roboto Condensed"
+           font-size="15"
+           font-weight="400"
+           font-style="normal"
+           id="text190"
+           style="fill-rule:nonzero">2.0</text>
+      </g>
+    </g>
+    <g
+       clip-path="url(#clipPath2)"
+       id="g194"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#666666"
+         stroke-opacity="1"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,0,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g193"
+         style="fill-rule:nonzero">
+        <text
+           fill="#666666"
+           fill-opacity="1"
+           stroke="none"
+           xml:space="preserve"
+           x="31.2656"
+           y="426"
+           font-family="Roboto Condensed"
+           font-size="15"
+           font-weight="400"
+           font-style="normal"
+           id="text192"
+           style="fill-rule:nonzero">2.5</text>
+      </g>
+    </g>
+    <g
+       clip-path="url(#clipPath2)"
+       id="g196"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#666666"
+         stroke-opacity="1"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,0,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g195"
+         style="fill-rule:nonzero">
+        <text
+           fill="#666666"
+           fill-opacity="1"
+           stroke="none"
+           xml:space="preserve"
+           x="31.2656"
+           y="377"
+           font-family="Roboto Condensed"
+           font-size="15"
+           font-weight="400"
+           font-style="normal"
+           id="text194"
+           style="fill-rule:nonzero">3.0</text>
+      </g>
+    </g>
+    <g
+       clip-path="url(#clipPath2)"
+       id="g198"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#666666"
+         stroke-opacity="1"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,0,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g197"
+         style="fill-rule:nonzero">
+        <text
+           fill="#666666"
+           fill-opacity="1"
+           stroke="none"
+           xml:space="preserve"
+           x="31.2656"
+           y="328"
+           font-family="Roboto Condensed"
+           font-size="15"
+           font-weight="400"
+           font-style="normal"
+           id="text196"
+           style="fill-rule:nonzero">3.5</text>
+      </g>
+    </g>
+    <g
+       clip-path="url(#clipPath2)"
+       id="g200"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#666666"
+         stroke-opacity="1"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,0,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g199"
+         style="fill-rule:nonzero">
+        <text
+           fill="#666666"
+           fill-opacity="1"
+           stroke="none"
+           xml:space="preserve"
+           x="31.2656"
+           y="279"
+           font-family="Roboto Condensed"
+           font-size="15"
+           font-weight="400"
+           font-style="normal"
+           id="text198"
+           style="fill-rule:nonzero">4.0</text>
+      </g>
+    </g>
+    <g
+       clip-path="url(#clipPath2)"
+       id="g202"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#666666"
+         stroke-opacity="1"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,0,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g201"
+         style="fill-rule:nonzero">
+        <text
+           fill="#666666"
+           fill-opacity="1"
+           stroke="none"
+           xml:space="preserve"
+           x="31.2656"
+           y="230"
+           font-family="Roboto Condensed"
+           font-size="15"
+           font-weight="400"
+           font-style="normal"
+           id="text200"
+           style="fill-rule:nonzero">4.5</text>
+      </g>
+    </g>
+    <g
+       clip-path="url(#clipPath2)"
+       id="g204"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#666666"
+         stroke-opacity="1"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,0,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g203"
+         style="fill-rule:nonzero">
+        <text
+           fill="#666666"
+           fill-opacity="1"
+           stroke="none"
+           xml:space="preserve"
+           x="31.2656"
+           y="180"
+           font-family="Roboto Condensed"
+           font-size="15"
+           font-weight="400"
+           font-style="normal"
+           id="text202"
+           style="fill-rule:nonzero">5.0</text>
+      </g>
+    </g>
+    <g
+       clip-path="url(#clipPath2)"
+       id="g206"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#666666"
+         stroke-opacity="1"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,0,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g205"
+         style="fill-rule:nonzero">
+        <text
+           fill="#666666"
+           fill-opacity="1"
+           stroke="none"
+           xml:space="preserve"
+           x="31.2656"
+           y="131"
+           font-family="Roboto Condensed"
+           font-size="15"
+           font-weight="400"
+           font-style="normal"
+           id="text204"
+           style="fill-rule:nonzero">5.5</text>
+      </g>
+    </g>
+    <g
+       clip-path="url(#clipPath2)"
+       id="g208"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#666666"
+         stroke-opacity="1"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,0,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g207"
+         style="fill-rule:nonzero">
+        <text
+           fill="#666666"
+           fill-opacity="1"
+           stroke="none"
+           xml:space="preserve"
+           x="31.2656"
+           y="82"
+           font-family="Roboto Condensed"
+           font-size="15"
+           font-weight="400"
+           font-style="normal"
+           id="text206"
+           style="fill-rule:nonzero">6.0</text>
+      </g>
+    </g>
+    <g
+       clip-path="url(#clipPath2)"
+       id="g210"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#666666"
+         stroke-opacity="1"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,0,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g209"
+         style="fill-rule:nonzero">
+        <text
+           fill="#666666"
+           fill-opacity="1"
+           stroke="none"
+           xml:space="preserve"
+           x="31.2656"
+           y="33"
+           font-family="Roboto Condensed"
+           font-size="15"
+           font-weight="400"
+           font-style="normal"
+           id="text208"
+           style="fill-rule:nonzero">6.5</text>
+      </g>
+    </g>
+    <g
+       clip-path="url(#clipPath2)"
+       id="g212"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#666666"
+         stroke-opacity="1"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,0,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g211"
+         style="fill-rule:nonzero" />
+    </g>
+    <g
+       clip-path="url(#clipPath2)"
+       id="g214"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#333333"
+         stroke-opacity="1"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(0,-1,1,0,21.25,418.133)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g213"
+         style="fill-rule:nonzero">
+        <text
+           fill="#333333"
+           fill-opacity="1"
+           stroke="none"
+           xml:space="preserve"
+           x="0"
+           y="0"
+           font-family="Roboto Condensed"
+           font-size="15"
+           font-weight="400"
+           font-style="normal"
+           id="text212"
+           style="fill-rule:nonzero">Avg. Annual Temperature (C)</text>
+      </g>
+    </g>
+    <g
+       clip-path="url(#clipPath2)"
+       id="g216"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#666666"
+         stroke-opacity="1"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,0,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g215"
+         style="fill-rule:nonzero" />
+    </g>
+    <g
+       fill="none"
+       stroke="#666666"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Roboto Condensed"
+       font-size="15"
+       font-weight="400"
+       font-style="normal"
+       id="g217"
+       style="fill-rule:nonzero" />
+    <g
+       clip-path="url(#clipPath2)"
+       id="g219"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#666666"
+         stroke-opacity="1"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g218"
+         style="fill-rule:nonzero" />
+    </g>
+    <g
+       clip-path="url(#clipPath3)"
+       id="g221"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#666666"
+         stroke-opacity="1"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g220"
+         style="fill-rule:nonzero" />
+    </g>
+    <g
+       clip-path="url(#clipPath4)"
+       id="g223"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#666666"
+         stroke-opacity="1"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g222"
+         style="fill-rule:nonzero" />
+    </g>
+    <g
+       clip-path="url(#clipPath4)"
+       id="g225"
+       style="fill-rule:nonzero">
+      <g
+         fill="#ffffff"
+         fill-opacity="1"
+         stroke="none"
+         transform="matrix(1,0,0,1,57,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g224"
+         style="fill-rule:nonzero">
+        <rect
+           x="0"
+           y="0"
+           width="1376"
+           height="668"
+           id="rect223"
+           style="fill-rule:nonzero" />
+      </g>
+    </g>
+    <g
+       clip-path="url(#clipPath4)"
+       id="g227"
+       style="fill-rule:nonzero">
+      <g
+         fill="#ffffff"
+         fill-opacity="1"
+         stroke="none"
+         transform="matrix(1,0,0,1,57,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g226"
+         style="fill-rule:nonzero">
+        <rect
+           x="0"
+           y="0"
+           width="1376"
+           height="668"
+           id="rect225"
+           style="fill-rule:nonzero" />
+      </g>
+    </g>
+    <g
+       clip-path="url(#clipPath5)"
+       id="g229"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#666666"
+         stroke-opacity="1"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g228"
+         style="fill-rule:nonzero" />
+    </g>
+    <g
+       clip-path="url(#clipPath5)"
+       id="g231"
+       style="fill-rule:nonzero">
+      <g
+         fill="#ffffff"
+         fill-opacity="1"
+         stroke="none"
+         transform="matrix(1,0,0,1,57,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g230"
+         style="fill-rule:nonzero">
+        <rect
+           x="0"
+           y="0"
+           width="1376"
+           height="668"
+           id="rect229"
+           style="fill-rule:nonzero" />
+      </g>
+    </g>
+    <g
+       clip-path="url(#clipPath6)"
+       id="g233"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#666666"
+         stroke-opacity="1"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g232"
+         style="fill-rule:nonzero" />
+    </g>
+    <g
+       clip-path="url(#clipPath7)"
+       id="g235"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#666666"
+         stroke-opacity="1"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g234"
+         style="fill-rule:nonzero" />
+    </g>
+    <g
+       clip-path="url(#clipPath8)"
+       id="g237"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#666666"
+         stroke-opacity="1"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g236"
+         style="fill-rule:nonzero" />
+    </g>
+    <g
+       clip-path="url(#clipPath9)"
+       id="g239"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#666666"
+         stroke-opacity="1"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g238"
+         style="fill-rule:nonzero" />
+    </g>
+    <g
+       clip-path="url(#clipPath9)"
+       id="g241"
+       style="fill-rule:nonzero">
+      <g
+         fill="#ffffff"
+         fill-opacity="1"
+         stroke="none"
+         transform="matrix(1,0,0,1,57,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g240"
+         style="fill-rule:nonzero">
+        <rect
+           x="0"
+           y="0"
+           width="1376"
+           height="668"
+           id="rect239"
+           style="fill-rule:nonzero" />
+      </g>
+    </g>
+    <g
+       clip-path="url(#clipPath10)"
+       id="g243"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#666666"
+         stroke-opacity="1"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g242"
+         style="fill-rule:nonzero" />
+    </g>
+    <g
+       clip-path="url(#clipPath11)"
+       id="g245"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#666666"
+         stroke-opacity="1"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g244"
+         style="fill-rule:nonzero" />
+    </g>
+    <g
+       clip-path="url(#clipPath11)"
+       id="g258"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#f2f2f2"
+         stroke-opacity="1"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g257"
+         style="fill-rule:nonzero">
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="0,618 1375,618 "
+           id="polyline245"
+           style="fill-rule:nonzero" />
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="0,569 1375,569 "
+           id="polyline246"
+           style="fill-rule:nonzero" />
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="0,520 1375,520 "
+           id="polyline247"
+           style="fill-rule:nonzero" />
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="0,470 1375,470 "
+           id="polyline248"
+           style="fill-rule:nonzero" />
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="0,421 1375,421 "
+           id="polyline249"
+           style="fill-rule:nonzero" />
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="0,372 1375,372 "
+           id="polyline250"
+           style="fill-rule:nonzero" />
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="0,323 1375,323 "
+           id="polyline251"
+           style="fill-rule:nonzero" />
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="0,274 1375,274 "
+           id="polyline252"
+           style="fill-rule:nonzero" />
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="0,225 1375,225 "
+           id="polyline253"
+           style="fill-rule:nonzero" />
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="0,175 1375,175 "
+           id="polyline254"
+           style="fill-rule:nonzero" />
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="0,126 1375,126 "
+           id="polyline255"
+           style="fill-rule:nonzero" />
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="0,77 1375,77 "
+           id="polyline256"
+           style="fill-rule:nonzero" />
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="0,28 1375,28 "
+           id="polyline257"
+           style="fill-rule:nonzero" />
+      </g>
+    </g>
+    <g
+       clip-path="url(#clipPath12)"
+       id="g260"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#f2f2f2"
+         stroke-opacity="1"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g259"
+         style="fill-rule:nonzero" />
+    </g>
+    <g
+       clip-path="url(#clipPath13)"
+       id="g262"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#f2f2f2"
+         stroke-opacity="1"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g261"
+         style="fill-rule:nonzero" />
+    </g>
+    <g
+       clip-path="url(#clipPath13)"
+       id="g264"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#cbcbcb"
+         stroke-opacity="1"
+         stroke-dasharray="1,2"
+         stroke-dashoffset="0"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g263"
+         style="fill-rule:nonzero">
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="0,667 1375,667 "
+           id="polyline262"
+           style="fill-rule:nonzero" />
+      </g>
+    </g>
+    <g
+       clip-path="url(#clipPath14)"
+       id="g266"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#cbcbcb"
+         stroke-opacity="1"
+         stroke-dasharray="1,2"
+         stroke-dashoffset="0"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g265"
+         style="fill-rule:nonzero" />
+    </g>
+    <g
+       clip-path="url(#clipPath15)"
+       id="g268"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#cbcbcb"
+         stroke-opacity="1"
+         stroke-dasharray="1,2"
+         stroke-dashoffset="0"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g267"
+         style="fill-rule:nonzero" />
+    </g>
+    <g
+       clip-path="url(#clipPath16)"
+       id="g270"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#cbcbcb"
+         stroke-opacity="1"
+         stroke-dasharray="1,2"
+         stroke-dashoffset="0"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g269"
+         style="fill-rule:nonzero" />
+    </g>
+    <g
+       clip-path="url(#clipPath17)"
+       id="g272"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#cbcbcb"
+         stroke-opacity="1"
+         stroke-dasharray="1,2"
+         stroke-dashoffset="0"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g271"
+         style="fill-rule:nonzero" />
+    </g>
+    <g
+       clip-path="url(#clipPath18)"
+       id="g274"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#cbcbcb"
+         stroke-opacity="1"
+         stroke-dasharray="1,2"
+         stroke-dashoffset="0"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g273"
+         style="fill-rule:nonzero" />
+    </g>
+    <g
+       clip-path="url(#clipPath19)"
+       id="g276"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#cbcbcb"
+         stroke-opacity="1"
+         stroke-dasharray="1,2"
+         stroke-dashoffset="0"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g275"
+         style="fill-rule:nonzero" />
+    </g>
+    <g
+       clip-path="url(#clipPath20)"
+       id="g278"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#cbcbcb"
+         stroke-opacity="1"
+         stroke-dasharray="1,2"
+         stroke-dashoffset="0"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g277"
+         style="fill-rule:nonzero" />
+    </g>
+    <g
+       clip-path="url(#clipPath21)"
+       id="g280"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#cbcbcb"
+         stroke-opacity="1"
+         stroke-dasharray="1,2"
+         stroke-dashoffset="0"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g279"
+         style="fill-rule:nonzero" />
+    </g>
+    <g
+       clip-path="url(#clipPath22)"
+       id="g282"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#cbcbcb"
+         stroke-opacity="1"
+         stroke-dasharray="1,2"
+         stroke-dashoffset="0"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g281"
+         style="fill-rule:nonzero" />
+    </g>
+    <g
+       clip-path="url(#clipPath23)"
+       id="g284"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#cbcbcb"
+         stroke-opacity="1"
+         stroke-dasharray="1,2"
+         stroke-dashoffset="0"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g283"
+         style="fill-rule:nonzero" />
+    </g>
+    <g
+       clip-path="url(#clipPath24)"
+       id="g286"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#cbcbcb"
+         stroke-opacity="1"
+         stroke-dasharray="1,2"
+         stroke-dashoffset="0"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g285"
+         style="fill-rule:nonzero" />
+    </g>
+    <g
+       clip-path="url(#clipPath24)"
+       id="g288"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#4e79a7"
+         stroke-opacity="1"
+         stroke-width="3"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         transform="matrix(1,0,0,1,57,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g287"
+         style="fill-rule:nonzero">
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="64.3636,565.367 86.6211,518.208 108.879,495.068 131.197,514.248 153.455,471.47 175.712,585.85 197.97,480.065 220.288,450.456 242.545,513.44 264.803,413.377 287.06,504.373 309.379,398.944 331.636,521.684 353.894,494.135 376.151,574.091 398.47,468.879 420.727,332.01 442.985,242.29 465.242,384.379 487.561,469.085 509.818,497.744 532.076,425.406 554.333,356.353 576.652,585.661 598.909,455.939 621.167,457.241 643.424,398.264 665.742,452.204 688,400.403 710.258,463.133 732.515,592.041 754.833,597.193 777.091,380.917 799.348,452.811 821.606,226.889 843.924,287.235 866.182,335.43 888.439,372.981 910.697,460.754 933.015,413.569 955.273,307.367 977.53,517.682 999.788,421.441 1022.11,328.383 1044.36,302.94 1066.62,128.867 1088.88,302.89 1111.2,222.661 1133.45,326.793 1155.71,298.125 1177.97,378.216 1200.29,185.066 1222.55,125.846 1244.8,44.6871 1267.06,63.826 1289.38,33.6905 1311.64,64.6578 "
+           id="polyline286"
+           style="fill-rule:nonzero" />
+      </g>
+    </g>
+    <g
+       clip-path="url(#clipPath24)"
+       id="g290"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#cbcbcb"
+         stroke-opacity="1"
+         stroke-dasharray="1,2"
+         stroke-dashoffset="0"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g289"
+         style="fill-rule:nonzero">
+        <path
+           vector-effect="none"
+           fill-rule="nonzero"
+           d="M0,0"
+           id="path288"
+           style="fill-rule:nonzero" />
+      </g>
+    </g>
+    <g
+       clip-path="url(#clipPath25)"
+       id="g292"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#cbcbcb"
+         stroke-opacity="1"
+         stroke-dasharray="1,2"
+         stroke-dashoffset="0"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g291"
+         style="fill-rule:nonzero" />
+    </g>
+    <g
+       clip-path="url(#clipPath26)"
+       id="g294"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#cbcbcb"
+         stroke-opacity="1"
+         stroke-dasharray="1,2"
+         stroke-dashoffset="0"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g293"
+         style="fill-rule:nonzero" />
+    </g>
+    <g
+       clip-path="url(#clipPath27)"
+       id="g296"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#cbcbcb"
+         stroke-opacity="1"
+         stroke-dasharray="1,2"
+         stroke-dashoffset="0"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g295"
+         style="fill-rule:nonzero" />
+    </g>
+    <g
+       clip-path="url(#clipPath28)"
+       id="g298"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#cbcbcb"
+         stroke-opacity="1"
+         stroke-dasharray="1,2"
+         stroke-dashoffset="0"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g297"
+         style="fill-rule:nonzero" />
+    </g>
+    <g
+       clip-path="url(#clipPath28)"
+       id="g300"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#000000"
+         stroke-opacity="0.403922"
+         stroke-dasharray="8,4"
+         stroke-dashoffset="0"
+         stroke-width="2"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g299"
+         style="fill-rule:nonzero">
+        <path
+           vector-effect="none"
+           fill-rule="evenodd"
+           d="M0,582.176 L5,580.754 L10,579.331 L15,577.908 L20,576.486 L25,575.063 L30,573.64 L35,572.218 L40,570.795 L45,569.372 L50,567.95 L55,566.527 L60,565.105 L65,563.682 L70,562.259 L75,560.837 L80,559.414 L85,557.991 L90,556.569 L95,555.146 L100,553.723 L105,552.301 L110,550.878 L115,549.456 L120,548.033 L125,546.61 L130,545.188 L135,543.765 L140,542.342 L145,540.92 L150,539.497 L155,538.074 L160,536.652 L165,535.229 L170,533.806 L175,532.384 L180,530.961 L185,529.539 L190,528.116 L195,526.693 L200,525.271 L205,523.848 L210,522.425 L215,521.003 L220,519.58 L225,518.157 L230,516.735 L235,515.312 L240,513.889 L245,512.467 L250,511.044 L255,509.622 L260,508.199 L265,506.776 L270,505.354 L275,503.931 L280,502.508 L285,501.086 L290,499.663 L295,498.24 L300,496.818 L305,495.395 L310,493.973 L315,492.55 L320,491.127 L325,489.705 L330,488.282 L335,486.859 L340,485.437 L345,484.014 L350,482.591 L355,481.169 L360,479.746 L365,478.323 L370,476.901 L375,475.478 L380,474.056 L385,472.633 L390,471.21 L395,469.788 L400,468.365 L405,466.942 L410,465.52 L415,464.097 L420,462.674 L425,461.252 L430,459.829 L435,458.407 L440,456.984 L445,455.561 L450,454.139 L455,452.716 L460,451.293 L465,449.871 L470,448.448 L475,447.025 L480,445.603 L485,444.18 L490,442.757 L495,441.335 L500,439.912 L505,438.49 L510,437.067 L515,435.644 L520,434.222 L525,432.799 L530,431.376 L535,429.954 L540,428.531 L545,427.108 L550,425.686 L555,424.263 L560,422.841 L565,421.418 L570,419.995 L575,418.573 L580,417.15 L585,415.727 L590,414.305 L595,412.882 L600,411.459 L605,410.037 L610,408.614 L615,407.191 L620,405.769 L625,404.346 L630,402.924 L635,401.501 L640,400.078 L645,398.656 L650,397.233 L655,395.81 L660,394.388 L665,392.965 L670,391.542 L675,390.12 L680,388.697 L685,387.275 L690,385.852 L695,384.429 L700,383.007 L705,381.584 L710,380.161 L715,378.739 L720,377.316 L725,375.893 L730,374.471 L735,373.048 L740,371.625 L745,370.203 L750,368.78 L755,367.358 L760,365.935 L765,364.512 L770,363.09 L775,361.667 L780,360.244 L785,358.822 L790,357.399 L795,355.976 L800,354.554 L805,353.131 L810,351.708 L815,350.286 L820,348.863 L825,347.441 L830,346.018 L835,344.595 L840,343.173 L845,341.75 L850,340.327 L855,338.905 L860,337.482 L865,336.059 L870,334.637 L875,333.214 L880,331.792 L885,330.369 L890,328.946 L895,327.524 L900,326.101 L905,324.678 L910,323.256 L915,321.833 L920,320.41 L925,318.988 L930,317.565 L935,316.143 L940,314.72 L945,313.297 L950,311.875 L955,310.452 L960,309.029 L965,307.607 L970,306.184 L975,304.761 L980,303.339 L985,301.916 L990,300.493 L995,299.071 L1000,297.648 L1005,296.226 L1010,294.803 L1015,293.38 L1020,291.958 L1025,290.535 L1030,289.112 L1035,287.69 L1040,286.267 L1045,284.844 L1050,283.422 L1055,281.999 L1060,280.577 L1065,279.154 L1070,277.731 L1075,276.309 L1080,274.886 L1085,273.463 L1090,272.041 L1095,270.618 L1100,269.195 L1105,267.773 L1110,266.35 L1115,264.927 L1120,263.505 L1125,262.082 L1130,260.66 L1135,259.237 L1140,257.814 L1145,256.392 L1150,254.969 L1155,253.546 L1160,252.124 L1165,250.701 L1170,249.278 L1175,247.856 L1180,246.433 L1185,245.011 L1190,243.588 L1195,242.165 L1200,240.743 L1205,239.32 L1210,237.897 L1215,236.475 L1220,235.052 L1225,233.629 L1230,232.207 L1235,230.784 L1240,229.361 L1245,227.939 L1250,226.516 L1255,225.094 L1260,223.671 L1265,222.248 L1270,220.826 L1275,219.403 L1280,217.98 L1285,216.558 L1290,215.135 L1295,213.712 L1300,212.29 L1305,210.867 L1310,209.445 L1315,208.022 L1320,206.599 L1325,205.177 L1330,203.754 L1335,202.331 L1340,200.909 L1345,199.486 L1350,198.063 L1355,196.641 L1360,195.218 L1365,193.795 L1370,192.373 L1375,190.95 L1380,189.528"
+           id="path298"
+           style="fill-rule:nonzero" />
+      </g>
+    </g>
+    <g
+       clip-path="url(#clipPath29)"
+       id="g302"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#cbcbcb"
+         stroke-opacity="1"
+         stroke-dasharray="1,2"
+         stroke-dashoffset="0"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g301"
+         style="fill-rule:nonzero" />
+    </g>
+    <g
+       clip-path="url(#clipPath30)"
+       id="g304"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#cbcbcb"
+         stroke-opacity="1"
+         stroke-dasharray="1,2"
+         stroke-dashoffset="0"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g303"
+         style="fill-rule:nonzero" />
+    </g>
+    <g
+       clip-path="url(#clipPath31)"
+       id="g306"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#cbcbcb"
+         stroke-opacity="1"
+         stroke-dasharray="1,2"
+         stroke-dashoffset="0"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g305"
+         style="fill-rule:nonzero" />
+    </g>
+    <g
+       clip-path="url(#clipPath32)"
+       id="g308"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#cbcbcb"
+         stroke-opacity="1"
+         stroke-dasharray="1,2"
+         stroke-dashoffset="0"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g307"
+         style="fill-rule:nonzero" />
+    </g>
+    <g
+       clip-path="url(#clipPath33)"
+       id="g310"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#cbcbcb"
+         stroke-opacity="1"
+         stroke-dasharray="1,2"
+         stroke-dashoffset="0"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g309"
+         style="fill-rule:nonzero" />
+    </g>
+    <g
+       clip-path="url(#clipPath34)"
+       id="g312"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#cbcbcb"
+         stroke-opacity="1"
+         stroke-dasharray="1,2"
+         stroke-dashoffset="0"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g311"
+         style="fill-rule:nonzero" />
+    </g>
+    <g
+       clip-path="url(#clipPath35)"
+       id="g314"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#cbcbcb"
+         stroke-opacity="1"
+         stroke-dasharray="1,2"
+         stroke-dashoffset="0"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g313"
+         style="fill-rule:nonzero" />
+    </g>
+    <g
+       clip-path="url(#clipPath36)"
+       id="g316"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#cbcbcb"
+         stroke-opacity="1"
+         stroke-dasharray="1,2"
+         stroke-dashoffset="0"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g315"
+         style="fill-rule:nonzero" />
+    </g>
+    <g
+       clip-path="url(#clipPath37)"
+       id="g318"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#cbcbcb"
+         stroke-opacity="1"
+         stroke-dasharray="1,2"
+         stroke-dashoffset="0"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g317"
+         style="fill-rule:nonzero" />
+    </g>
+    <g
+       clip-path="url(#clipPath38)"
+       id="g320"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#cbcbcb"
+         stroke-opacity="1"
+         stroke-dasharray="1,2"
+         stroke-dashoffset="0"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g319"
+         style="fill-rule:nonzero" />
+    </g>
+    <g
+       clip-path="url(#clipPath39)"
+       id="g322"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#cbcbcb"
+         stroke-opacity="1"
+         stroke-dasharray="1,2"
+         stroke-dashoffset="0"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g321"
+         style="fill-rule:nonzero" />
+    </g>
+    <g
+       clip-path="url(#clipPath40)"
+       id="g324"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#cbcbcb"
+         stroke-opacity="1"
+         stroke-dasharray="1,2"
+         stroke-dashoffset="0"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g323"
+         style="fill-rule:nonzero" />
+    </g>
+    <g
+       clip-path="url(#clipPath41)"
+       id="g326"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#cbcbcb"
+         stroke-opacity="1"
+         stroke-dasharray="1,2"
+         stroke-dashoffset="0"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g325"
+         style="fill-rule:nonzero" />
+    </g>
+    <g
+       clip-path="url(#clipPath42)"
+       id="g328"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#cbcbcb"
+         stroke-opacity="1"
+         stroke-dasharray="1,2"
+         stroke-dashoffset="0"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g327"
+         style="fill-rule:nonzero" />
+    </g>
+    <g
+       clip-path="url(#clipPath43)"
+       id="g330"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#cbcbcb"
+         stroke-opacity="1"
+         stroke-dasharray="1,2"
+         stroke-dashoffset="0"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g329"
+         style="fill-rule:nonzero" />
+    </g>
+    <g
+       clip-path="url(#clipPath44)"
+       id="g332"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#cbcbcb"
+         stroke-opacity="1"
+         stroke-dasharray="1,2"
+         stroke-dashoffset="0"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g331"
+         style="fill-rule:nonzero" />
+    </g>
+    <g
+       clip-path="url(#clipPath45)"
+       id="g334"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#cbcbcb"
+         stroke-opacity="1"
+         stroke-dasharray="1,2"
+         stroke-dashoffset="0"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g333"
+         style="fill-rule:nonzero" />
+    </g>
+    <g
+       clip-path="url(#clipPath46)"
+       id="g336"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#cbcbcb"
+         stroke-opacity="1"
+         stroke-dasharray="1,2"
+         stroke-dashoffset="0"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g335"
+         style="fill-rule:nonzero" />
+    </g>
+    <g
+       clip-path="url(#clipPath47)"
+       id="g338"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#cbcbcb"
+         stroke-opacity="1"
+         stroke-dasharray="1,2"
+         stroke-dashoffset="0"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g337"
+         style="fill-rule:nonzero" />
+    </g>
+    <g
+       clip-path="url(#clipPath48)"
+       id="g340"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#cbcbcb"
+         stroke-opacity="1"
+         stroke-dasharray="1,2"
+         stroke-dashoffset="0"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g339"
+         style="fill-rule:nonzero" />
+    </g>
+    <g
+       clip-path="url(#clipPath49)"
+       id="g342"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#cbcbcb"
+         stroke-opacity="1"
+         stroke-dasharray="1,2"
+         stroke-dashoffset="0"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g341"
+         style="fill-rule:nonzero" />
+    </g>
+    <g
+       clip-path="url(#clipPath50)"
+       id="g344"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#cbcbcb"
+         stroke-opacity="1"
+         stroke-dasharray="1,2"
+         stroke-dashoffset="0"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g343"
+         style="fill-rule:nonzero" />
+    </g>
+    <g
+       clip-path="url(#clipPath51)"
+       id="g346"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#cbcbcb"
+         stroke-opacity="1"
+         stroke-dasharray="1,2"
+         stroke-dashoffset="0"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g345"
+         style="fill-rule:nonzero" />
+    </g>
+    <g
+       clip-path="url(#clipPath52)"
+       id="g348"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#cbcbcb"
+         stroke-opacity="1"
+         stroke-dasharray="1,2"
+         stroke-dashoffset="0"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g347"
+         style="fill-rule:nonzero" />
+    </g>
+    <g
+       clip-path="url(#clipPath53)"
+       id="g350"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#cbcbcb"
+         stroke-opacity="1"
+         stroke-dasharray="1,2"
+         stroke-dashoffset="0"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g349"
+         style="fill-rule:nonzero" />
+    </g>
+    <g
+       clip-path="url(#clipPath54)"
+       id="g352"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#cbcbcb"
+         stroke-opacity="1"
+         stroke-dasharray="1,2"
+         stroke-dashoffset="0"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g351"
+         style="fill-rule:nonzero" />
+    </g>
+    <g
+       clip-path="url(#clipPath55)"
+       id="g354"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#cbcbcb"
+         stroke-opacity="1"
+         stroke-dasharray="1,2"
+         stroke-dashoffset="0"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g353"
+         style="fill-rule:nonzero" />
+    </g>
+    <g
+       clip-path="url(#clipPath56)"
+       id="g356"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#cbcbcb"
+         stroke-opacity="1"
+         stroke-dasharray="1,2"
+         stroke-dashoffset="0"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g355"
+         style="fill-rule:nonzero" />
+    </g>
+    <g
+       clip-path="url(#clipPath57)"
+       id="g358"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#cbcbcb"
+         stroke-opacity="1"
+         stroke-dasharray="1,2"
+         stroke-dashoffset="0"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g357"
+         style="fill-rule:nonzero" />
+    </g>
+    <g
+       clip-path="url(#clipPath58)"
+       id="g360"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#cbcbcb"
+         stroke-opacity="1"
+         stroke-dasharray="1,2"
+         stroke-dashoffset="0"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g359"
+         style="fill-rule:nonzero" />
+    </g>
+    <g
+       clip-path="url(#clipPath59)"
+       id="g362"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#cbcbcb"
+         stroke-opacity="1"
+         stroke-dasharray="1,2"
+         stroke-dashoffset="0"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g361"
+         style="fill-rule:nonzero" />
+    </g>
+    <g
+       clip-path="url(#clipPath60)"
+       id="g364"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#cbcbcb"
+         stroke-opacity="1"
+         stroke-dasharray="1,2"
+         stroke-dashoffset="0"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g363"
+         style="fill-rule:nonzero" />
+    </g>
+    <g
+       clip-path="url(#clipPath61)"
+       id="g366"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#cbcbcb"
+         stroke-opacity="1"
+         stroke-dasharray="1,2"
+         stroke-dashoffset="0"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g365"
+         style="fill-rule:nonzero" />
+    </g>
+    <g
+       clip-path="url(#clipPath62)"
+       id="g368"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#cbcbcb"
+         stroke-opacity="1"
+         stroke-dasharray="1,2"
+         stroke-dashoffset="0"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g367"
+         style="fill-rule:nonzero" />
+    </g>
+    <g
+       clip-path="url(#clipPath63)"
+       id="g370"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#cbcbcb"
+         stroke-opacity="1"
+         stroke-dasharray="1,2"
+         stroke-dashoffset="0"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g369"
+         style="fill-rule:nonzero" />
+    </g>
+    <g
+       clip-path="url(#clipPath64)"
+       id="g372"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#cbcbcb"
+         stroke-opacity="1"
+         stroke-dasharray="1,2"
+         stroke-dashoffset="0"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g371"
+         style="fill-rule:nonzero" />
+    </g>
+    <g
+       clip-path="url(#clipPath65)"
+       id="g374"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#cbcbcb"
+         stroke-opacity="1"
+         stroke-dasharray="1,2"
+         stroke-dashoffset="0"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g373"
+         style="fill-rule:nonzero" />
+    </g>
+    <g
+       clip-path="url(#clipPath66)"
+       id="g376"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#cbcbcb"
+         stroke-opacity="1"
+         stroke-dasharray="1,2"
+         stroke-dashoffset="0"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g375"
+         style="fill-rule:nonzero" />
+    </g>
+    <g
+       clip-path="url(#clipPath67)"
+       id="g378"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#cbcbcb"
+         stroke-opacity="1"
+         stroke-dasharray="1,2"
+         stroke-dashoffset="0"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g377"
+         style="fill-rule:nonzero" />
+    </g>
+    <g
+       clip-path="url(#clipPath68)"
+       id="g380"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#cbcbcb"
+         stroke-opacity="1"
+         stroke-dasharray="1,2"
+         stroke-dashoffset="0"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g379"
+         style="fill-rule:nonzero" />
+    </g>
+    <g
+       clip-path="url(#clipPath69)"
+       id="g382"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#cbcbcb"
+         stroke-opacity="1"
+         stroke-dasharray="1,2"
+         stroke-dashoffset="0"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g381"
+         style="fill-rule:nonzero" />
+    </g>
+    <g
+       clip-path="url(#clipPath70)"
+       id="g384"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#cbcbcb"
+         stroke-opacity="1"
+         stroke-dasharray="1,2"
+         stroke-dashoffset="0"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g383"
+         style="fill-rule:nonzero" />
+    </g>
+    <g
+       clip-path="url(#clipPath71)"
+       id="g386"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#cbcbcb"
+         stroke-opacity="1"
+         stroke-dasharray="1,2"
+         stroke-dashoffset="0"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g385"
+         style="fill-rule:nonzero" />
+    </g>
+    <g
+       clip-path="url(#clipPath72)"
+       id="g388"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#cbcbcb"
+         stroke-opacity="1"
+         stroke-dasharray="1,2"
+         stroke-dashoffset="0"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g387"
+         style="fill-rule:nonzero" />
+    </g>
+    <g
+       clip-path="url(#clipPath73)"
+       id="g390"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#cbcbcb"
+         stroke-opacity="1"
+         stroke-dasharray="1,2"
+         stroke-dashoffset="0"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g389"
+         style="fill-rule:nonzero" />
+    </g>
+    <g
+       clip-path="url(#clipPath74)"
+       id="g392"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#cbcbcb"
+         stroke-opacity="1"
+         stroke-dasharray="1,2"
+         stroke-dashoffset="0"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g391"
+         style="fill-rule:nonzero" />
+    </g>
+    <g
+       clip-path="url(#clipPath74)"
+       id="g394"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#f5f5f5"
+         stroke-opacity="1"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g393"
+         style="fill-rule:nonzero">
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="0,667 1375,667 "
+           id="polyline392"
+           style="fill-rule:nonzero" />
+        <polyline
+           fill="none"
+           vector-effect="none"
+           points="0,0 0,667 "
+           id="polyline393"
+           style="fill-rule:nonzero" />
+      </g>
+    </g>
+    <g
+       clip-path="url(#clipPath75)"
+       id="g396"
+       style="fill-rule:nonzero">
+      <g
+         fill="none"
+         stroke="#f5f5f5"
+         stroke-opacity="1"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(1,0,0,1,57,0)"
+         font-family="Roboto Condensed"
+         font-size="15"
+         font-weight="400"
+         font-style="normal"
+         id="g395"
+         style="fill-rule:nonzero" />
+    </g>
+    <g
+       fill="none"
+       stroke="#f5f5f5"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,57,0)"
+       font-family="Roboto Condensed"
+       font-size="15"
+       font-weight="400"
+       font-style="normal"
+       id="g397"
+       style="fill-rule:nonzero" />
+  </g>
+</svg>
