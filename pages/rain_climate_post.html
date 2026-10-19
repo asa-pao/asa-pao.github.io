@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<!-- saved from url=(0071)file:///C:/Users/taugi/Downloads/rainier_paradise_research_writeup.html -->
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -11,6 +10,8 @@
   <style>
     :root {
       --bg: #fff;
+      --special: #ffffff;
+      --divider-color: #4e79a7; /*Main color for graphing!!*/
       --ink: #111;
       --muted: #5a5a5a;
       --line: #d8d8d8;
@@ -42,7 +43,7 @@
     }
     h1, h2, h3, p { margin-top: 0; }
     h1 {
-      max-width: 850px; margin-bottom: 22px; font-size: clamp(42px, 7.5vw, 82px);
+      max-width: 850px; margin-bottom: 22px; font-size: clamp(42px, 6vw, 82px);
       line-height: .98; letter-spacing: -.035em; font-weight: 600;
     }
     .dek { max-width: 680px; font-size: 22px; line-height: 1.38; font-weight: 300; }
@@ -54,7 +55,7 @@
     article { min-width: 0; }
     .section { margin: 0 0 48px; }
     .section-label {
-      display: block; padding-top: 9px; border-top: 2px solid var(--ink);
+      display: block; padding-top: 9px; border-top: 2px solid var(--divider-color);
       margin-bottom: 17px; font-size: 11px; line-height: 1.4; font-weight: 700;
       text-transform: uppercase; letter-spacing: .14em;
     }
@@ -64,7 +65,7 @@
     .lead { font-size: 20px; line-height: 1.5; font-weight: 300; }
     .small { font-size: 14px; line-height: 1.5; color: var(--muted); }
     .figure { margin: 26px 0 22px; }
-    .figure iframe { display: block; width: 100%; height: 582px; border: 1px solid var(--line); background: var(--soft); }
+    .figure iframe { display: block; width: 100%; height: 535px; border: 1px solid var(--special);}
     figcaption { padding-top: 9px; font-size: 13px; line-height: 1.45; color: var(--muted); }
     .note { padding: 17px 19px; border: 1px solid var(--ink); margin: 22px 0; }
     .note strong { display: block; font-size: 12px; text-transform: uppercase; letter-spacing: .1em; margin-bottom: 6px; }
@@ -107,6 +108,7 @@
       .figure iframe { height: 500px; }
     }
   </style>
+  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-chtml.js" async></script>
 </head>
 <body>
   <div class="page">
@@ -115,8 +117,10 @@
       <div class="right">Mt. Rainier, Washington</div>
     </div>
 
-    <header class="hero">
-      
+    <!-- no class assigned, might change later? was using hero, but spacing and bottom line ended up being more visually challenging than helpful -->
+    <header class="">
+      <img src="https://asa-pao.github.io/assets/imgs/peak.webp" style="width:100%">
+      <div style="height: 25px;"></div>
       <h1>Examining Changes in Temperature at Paradise Station, Mt. Rainier</h1>
       <p class="dek">
         A exploratory analysis of long-term temperature observations from the NOAA
@@ -145,12 +149,12 @@
         <section class="section" id="map">
           
           
-          <p>However, one must note the difference in elevation between the summit of Mt. Rainier and the paradise station (Mt. Rainier Summit: 4,392m, Paradise Station: 1650m). The difference matters because within 2742 meters, local conditions can drastically change. In other words, temperatures in this study reflect solely Paradise Station, not temperatures across the whole mountain. As such, no inference can be made on how the mountain as a whole is experiencing a changing climate, although recent LiDAR suggests a change (https://pugetsoundlidar.ess.washington.edu/lidardata/restricted/filegeodatabase/mtrainierNP/index.html). &lt;br&gt; It cannot by itself describe the full
+          <p>However, one must note the difference in elevation between the summit of Mt. Rainier and the paradise station (Mt. Rainier Summit: 4,392m, Paradise Station: 1650m). The difference matters because within 2742 meters, local conditions can drastically change. In other words, temperatures in this study reflect solely Paradise Station, not temperatures across the whole mountain. As such, no inference can be made on how the mountain as a whole is experiencing a changing climate, although recent LiDAR suggests a change (Greenberg, 2021). &lt;br&gt; It cannot by itself describe the full
             elevation gradient, the differences between slopes, or conditions
             at the summit. Those questions would require additional stations,
             gridded climate products, or a separate elevation-based analysis.</p>
           <figure class="figure">
-            <iframe src="https://asa-pao.github.io/assets/maps/rain_paradise_map.html" title="Topographic map of Mt. Rainier and the NOAA Paradise station" loading="lazy"></iframe>
+            <iframe src="https://asa-pao.github.io/assets/maps/rain_para_sm_map.html" title="Topographic map of Mt. Rainier and the NOAA Paradise station" loading="lazy"></iframe>
             <figcaption>
               Figure 1. Topographic Map of the NOAA Paradise Station in regards to the surrounding terrain and Mt. Rainier Summit.
             </figcaption>
@@ -161,8 +165,8 @@
         <section class="section" id="data">
           <span class="section-label">About the Data</span>
           <h2>Preparing: NOAA + Daily Temperature Records</h2>
-          <p>This study pulls daily observations for station<strong>USC00456898</strong>from NOAA’s National Centers for Environmental Information (NCEI), using the Daily Summaries service (API). This project speifically looks at all data from January 1, 1917 through January 1, 2026. It should be noted that this is simply the request window, not the extent of all data (not all days contain observations).</p>
-          <p>The data was then filtered to the field <code>TOBS</code> and converted to Celcius (<code>tempC</code>). Before graphing, the series was resampled into annual means (this helps with the inconsistencies within the TOBS sampling). Observe the brief overview of the data used below:</p>
+          <p>This study pulls daily observations for station <code>USC00456898</code> from NOAA’s National Centers for Environmental Information (NCEI), using the Daily Summaries service (API). This project speifically looks at all data from January 1, 1917 through January 1, 2026. It should be noted that this is simply the request window, not the extent of all data (not all days contain observations).</p>
+          <p>The data was then filtered to the field <code>TOBS</code> and converted to Celsius (<code>tempC</code>). Before graphing, the series was resampled into annual means (this helps with the inconsistencies within the TOBS sampling). Observe the brief overview of the data used below:</p>
           <dl class="metadata">
             <div><dt>Dataset/Source</dt><dd>NOAA / NCEI Global Historical Climatology Network: Daily (GHCN)</dd></div>
             <div><dt>Station ID</dt><dd>USC00456898</dd></div>
@@ -175,31 +179,76 @@
         <section class="section" id="method">
           <span class="section-label">Methods</span>
           <h2>The Approach: How to get there</h2>
-          <p>p1</p>
-          
-          
-          <p>p2?</p>
+          <ol>
+            <li>Retrieve Daily Observations from NOAA/NCEI</li>
+            <li>Load data into Pandas (py) DataFrame</li>
+            <li>Parse dates, converting date field to datetime format and set it as the index</li>
+            <li>Select TOBS (Temperature at the Time of Observation)</li>
+            <li>Convert TOBS to Celsius following the encoding/format used in GHCN daily</li>
+            <li>Aggregate the data by year (average)</li>
+            <li>Plot results</li>
+          </ol> 
         </section>
 
+
+        <!-- figure 2-->
         <section class="section" id="limits">
-          <span class="section-label">Limitations</span>
+          <span class="section-label">Results</span>
           <h2>The Summit: Findings + Discussion</h2>
-          <p>P1</p>
-          <p>p2</p>
-          <p>p3</p>
+          <figure class="figure">
+            <a href="https://asa-pao.github.io/assets/imgs/rain_graph.svg" target="_blank" rel="noopener noreferrer">
+              <img src="https://asa-pao.github.io/assets/imgs/rain_graph.svg" style="width:100%">
+            </a>
+            <figcaption>
+              Figure 2. A graph of annual temperature averages (c) over time, 1917-2025.
+            </figcaption>
+          </figure>
+
+          <!--text sub figure 2-->
+          <p>Figure 2 (above) shows the changes in average TOBS (C) over time. Note that no positive trend results from this data, and in fact, when a trend line is computed, we get a negative slope: 
+            $$-5.56576e^{-0.6}x +3.64205$$</p>
+          <i>P-value of 0.742006 (not statistically significant).</i>
+          <br><br>
+          <p>While contradictory to our understanding of climate change (warming of the globe), we must consider the factors influencing this calculation. As figure 2 illustrates, there are large extremes throughout that may be influencing this result, especially if weight the graph by the x value (time). From 1916 to 1970, we can observe a large rounded increase in average annual temperatures. This is likely due to the large increases in aerosol from WWII as well as natural cycles. <a href="https://wa.water.usgs.gov/pubs/fs/fs_rainier.html" target="_blank" rel="noopener">An article</a> by C.L. Driedger and the USGS notes that glacial melt was slow until 1920, rapidly melting through 1950 as a result of the Little Ice Age. From 1960-1980, Driedger notes that glaciers on Mt. Rainier actually advanced as a result of high snowfall. These factors heavily impact our annual temperature averages and are likely the culprits behind the misleading negative slope of our trend line. Figure 3 is used to highlight the extremes: 1916 with the lowest TOBS average (possibly a miscalculation due to limited records), and 1949 with the highest annual TOBS average. The right two columns are used to show the change between the most reliable and earliest annual TOBS average and the most recent and reliable annual TOBS average:</p>
+          <!-- figure 3-->
+          <figure class="figure">
+            <a href="https://asa-pao.github.io/assets/imgs/rain_chart.svg" target="_blank" rel="noopener noreferrer">
+              <img src="https://asa-pao.github.io/assets/imgs/rain_chart.svg" style="width:70%">
+            </a>
+            <figcaption>
+              Figure 3. A bar chart highlighting key annual temperature averages (c): 1916, 1917, 1949, 2025.
+            </figcaption>
+          </figure>
+          
+          <!-- more text????? -->
+          <p>While the results are mathematically inconclusive, the difference between 1917 and 2025 suggest that a warming climate is plausible. In an attempt to re-analyze this, another figure was made limiting data: </p>
+          
+          <!-- figure 4-->
+          <figure class="figure">
+            <a href="https://asa-pao.github.io/assets/imgs/rain_graph_sm.svg" target="_blank" rel="noopener noreferrer">
+              <img src="https://asa-pao.github.io/assets/imgs/rain_graph_sm.svg" style="width:100%">
+            </a>
+            <figcaption>
+              Figure 4. A graph of annual temperature averages (c) over time with a trend line shown, 1970-2025.
+            </figcaption>
+          </figure>
+          <p>Now, our trend line calculations result with a positive slope:</p>
+          $$0.00017646x-3.4644$$
+          <i>P-value of <0.0001 (statistically significant) and R-Squared of 0.522855.</i>
+          <br><br>
+          <p>With the anomaly removed, we can observe global warming post-Little Ice Age and post-WWII with a rate of 0.00017646 C per year.</p>
         </section>
 
         <section class="section" id="next">
-          <span class="section-label">Discussion</span>
+          <span class="section-label">Limitations</span>
           <h2>The Return: Uncertainty + Questions + Next Steps</h2>
+          <p>There are many limitations to this exploratory project. Some of them include:</p>
             <ul class="method-list">
-              <li><strong>Coverage:</strong>missing data, sensor errors?</li>
-              <li><strong>Units:</strong>disparities?</li>
-              <li><strong>Consistency:</strong>inconsistency?</li>
+              <li><strong>Coverage:</strong> missing data + accuracy of observations</li>
+              <li><strong>Units:</strong> possible unit disparities</li>
+              <li><strong>Consistency:</strong> inconsistency with TOBS (time of observation specifically)</li>
           </ul>
-          <p>p1</p>
-          <p>p2</p>
-          <p>p3</p>
+          <p>The coverage of TOBS at Paradise could skew our data significantly. For example, if observations are recorded less in winter due to extreme weather or a different times of the day, perhaps our averages might not accurately represent the actual average annual temperature (inconsistency and missing data). Units could also play a contributing factor. Data is stored in the API in tenths of degrees Celsius, but perhaps early observations could have been recorded in fahrenheit and then converted. This creates accuracy concerns as we do not know how the conversion (if it existed) was carried out, nor do we know the accuracy of the temperature observation device. Next steps could include interpolating our data temporally, transforming our data, or changing methods to reduce the effects of our anomaly. However, we must be careful to avoid cherry-picking or altering our data in a way that may be misinformative.</p>
         </section>
 
         <section class="section" id="references">
@@ -207,14 +256,19 @@
           <h2>Data + References</h2>
           <ol class="reference">
             <li>
-              National Centers for Environmental Information (NCEI), NOAA.
-              <em>Global Historical Climatology Network – Daily (GHCN-Daily), Version 3.</em>
-              <a href="https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ncdc%3AC00861" target="_blank" rel="noopener">Dataset overview and metadata</a>.
+              Driedger, C. L. “Glaciers on Mount Rainier.” <em>USGS</em>, 92–474, U.S. Geological Survey, Department of the Interior, 1993, wa.water.usgs.gov/pubs/fs/fs_rainier.html.
             </li>
-            
-            
-            
-            
+            <li>
+              Greenberg, H. "Mount Rainier National Park Bare Earth LIDAR DEM." <em>University of Washington Department of Earth Sciences</em>, 2021, https://pugetsoundlidar.ess.washington.edu/lidardata/restricted/filegeodatabase/mtrainierNP/index.html
+            </li>
+            <li>
+              National Centers for Environmental Information (NCEI), NOAA.
+              <em>Global Historical Climatology Network – Daily (GHCN-Daily), Version 3. </em>
+              https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ncdc%3AC00861
+            </li>
+            <li>
+              Wolf, Frederick. “Climate Change and the Retreating Glaciers of Mount Rainier, Washington: Is there Evidence of Global Warming in the Local Temperature, Rainfall or Snowfall Record?” <em>USGS</em>, Jan. 2014, https://doi.org/10.13140/2.1.4640.5765.
+            </li>
           </ol>
           
         </section>
@@ -228,6 +282,5 @@
       <span>by asa-pao</span>
     </footer>
   </div>
-
-
-</body></html>
+</body>
+</html>
