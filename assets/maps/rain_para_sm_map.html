@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<!-- saved from url=(0060)https://asa-pao.github.io/assets/maps/rain_paradise_map.html -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Mount Rainier &amp; Paradise Weather Station</title>
+  <link rel="stylesheet" href="./rain_para_sm_map_files/css">
+  <link rel="stylesheet" href="./rain_para_sm_map_files/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
+  
+  <!-- the popup click interact things took a while to figure out, but im happy with the end result!!! so sick! -->
+
+  <!-- CSS inspo from leaflet and w3 and osm examples -->
+  <style>
+    :root {
+      --ink: #24312e; --muted: #5c6c66; --paper: #00000000;
+      --line: #d7dfd8; --green: #27685c; --red: #ad493b; 
+      /* color palette, unsure if i will use the green? */
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0; color: var(--ink); background: #00000000;
+      font-family: "Roboto Condensed", sans-serif;
+    }
+    .map-card {
+      max-width: 1120px; margin: 0 auto; background: #fff;
+      border: 1px solid var(--line); border-radius: 12px; overflow: hidden;
+    }
+    header { padding: 22px 24px 16px; }
+    .eyebrow {
+      margin: 0 0 7px; font: 700 .72rem/1.3 "Roboto Condensed", sans-serif;
+      text-transform: uppercase; letter-spacing: .13em; color: var(--muted);
+    }
+    h1 { margin: 0; font-size: clamp(1.45rem, 3vw, 2.1rem); line-height: 1.15; font-weight: 600; }
+    .subtitle {
+      max-width: 780px; margin: 10px 0 0; color: var(--muted);
+      font: 400 .98rem/1.55 "Roboto Condensed", sans-serif;
+    }
+    #rainier-map { width: 100%; height: min(70vh, 700px); min-height: 430px; background: #e7ece7; }
+    .map-caption {
+      padding: 13px 20px 16px; border-top: 1px solid var(--line);
+      color: var(--muted); font: .8rem/1.55 "Roboto Condensed", sans-serif;
+    }
+    .map-caption p { margin: 3px 0; }
+    .map-caption a { color: var(--green); }
+    .leaflet-popup-content { font: 14px/1.55 "Roboto Condensed", sans-serif; }
+    .leaflet-popup-content b { color: var(--ink); }
+    .popup-coord { color: var(--muted); font-size: 12px; }
+    .leaflet-control-layers, .leaflet-control-scale { font-family: "Roboto Condensed", sans-serif; }
+    .leaflet-control-layers { border-radius: 8px !important; }
+    @media (max-width: 600px) {
+      header { padding: 17px; }
+      #rainier-map { min-height: 470px; height: 65vh; }
+    }
+  </style>
+</head>
+<body>
+  <main class="map-card">
+    <!-- This is the title for the map -->
+    <header>
+      
+      
+
+    </header>
+
+    <!-- shout out to the NOAA Paradise weather station for providing the data used in this map -->
+    <!-- also reddit and stack for providing guidance and code examples as well as osm examples -->
+    <!-- lots went into the osm documentation -->
+    <div id="rainier-map" role="application" aria-label="Interactive topographic map of Mount Rainier summit and the NOAA Paradise weather station" class="leaflet-container leaflet-touch leaflet-retina leaflet-fade-anim leaflet-grab leaflet-touch-drag leaflet-touch-zoom" tabindex="0" style="position: relative;"><div class="leaflet-pane leaflet-map-pane" style="transform: translate3d(-22px, 0px, 0px);"><div class="leaflet-pane leaflet-tile-pane"><div class="leaflet-layer " style="z-index: 1; opacity: 1;"><div class="leaflet-tile-container leaflet-zoom-animated" style="z-index: 17; transform: translate3d(0px, 0px, 0px) scale(1);"><img alt="" src="./rain_para_sm_map_files/721.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(464px, 41px, 0px); opacity: 1;"><img alt="" src="./rain_para_sm_map_files/720.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(464px, -215px, 0px); opacity: 1;"><img alt="" src="./rain_para_sm_map_files/721(1).png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(208px, 41px, 0px); opacity: 1;"><img alt="" src="./rain_para_sm_map_files/721(2).png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(720px, 41px, 0px); opacity: 1;"><img alt="" src="./rain_para_sm_map_files/722.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(464px, 297px, 0px); opacity: 1;"><img alt="" src="./rain_para_sm_map_files/720(1).png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(208px, -215px, 0px); opacity: 1;"><img alt="" src="./rain_para_sm_map_files/720(2).png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(720px, -215px, 0px); opacity: 1;"><img alt="" src="./rain_para_sm_map_files/722(1).png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(208px, 297px, 0px); opacity: 1;"><img alt="" src="./rain_para_sm_map_files/722(2).png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(720px, 297px, 0px); opacity: 1;"><img alt="" src="./rain_para_sm_map_files/721(3).png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(-48px, 41px, 0px); opacity: 1;"><img alt="" src="./rain_para_sm_map_files/721(4).png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(976px, 41px, 0px); opacity: 1;"><img alt="" src="./rain_para_sm_map_files/720(3).png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(-48px, -215px, 0px); opacity: 1;"><img alt="" src="./rain_para_sm_map_files/720(4).png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(976px, -215px, 0px); opacity: 1;"><img alt="" src="./rain_para_sm_map_files/722(3).png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(-48px, 297px, 0px); opacity: 1;"><img alt="" src="./rain_para_sm_map_files/722(4).png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(976px, 297px, 0px); opacity: 1;"></div></div></div><div class="leaflet-pane leaflet-overlay-pane"></div><div class="leaflet-pane leaflet-shadow-pane"></div><div class="leaflet-pane leaflet-marker-pane"><div class="leaflet-marker-icon leaflet-zoom-animated leaflet-interactive" title="Mount Rainier summit" tabindex="0" role="button" style="margin-left: -8.5px; margin-top: -8.5px; width: 17px; height: 17px; transform: translate3d(546px, 186px, 0px); z-index: 186;"><span style="display:block;width:17px;height:17px;background:#24312e;border:3px solid #fff;border-radius:50%;box-shadow:0 1px 6px #26342f66"></span></div><div class="leaflet-marker-icon leaflet-zoom-animated leaflet-interactive" title="NOAA Paradise weather station" tabindex="0" role="button" style="margin-left: -8.5px; margin-top: -8.5px; width: 17px; height: 17px; transform: translate3d(572px, 326px, 0px); z-index: 326;"><span style="display:block;width:17px;height:17px;background:#ad493b;border:3px solid #fff;border-radius:50%;box-shadow:0 1px 6px #26342f66"></span></div></div><div class="leaflet-pane leaflet-tooltip-pane"></div><div class="leaflet-pane leaflet-popup-pane"></div><div class="leaflet-proxy leaflet-zoom-animated" style="transform: translate3d(84831px, 184790px, 0px) scale(1024);"></div></div><div class="leaflet-control-container"><div class="leaflet-top leaflet-left"><div class="leaflet-control-zoom leaflet-bar leaflet-control"><a class="leaflet-control-zoom-in" href="https://asa-pao.github.io/assets/maps/rain_paradise_map.html#" title="Zoom in" role="button" aria-label="Zoom in" aria-disabled="false"><span aria-hidden="true">+</span></a><a class="leaflet-control-zoom-out" href="https://asa-pao.github.io/assets/maps/rain_paradise_map.html#" title="Zoom out" role="button" aria-label="Zoom out" aria-disabled="false"><span aria-hidden="true">−</span></a></div></div><div class="leaflet-top leaflet-right"><div class="leaflet-control-layers leaflet-control-layers-expanded leaflet-control" aria-haspopup="true"><a class="leaflet-control-layers-toggle" href="https://asa-pao.github.io/assets/maps/rain_paradise_map.html#" title="Layers" role="button"></a><section class="leaflet-control-layers-list"><div class="leaflet-control-layers-base"><label><span><input type="radio" class="leaflet-control-layers-selector" name="leaflet-base-layers_27" checked="checked"><span> Topographic terrain</span></span></label></div><div class="leaflet-control-layers-separator" style="display: none;"></div><div class="leaflet-control-layers-overlays"></div></section></div></div><div class="leaflet-bottom leaflet-left"><div class="leaflet-control-scale leaflet-control"><div class="leaflet-control-scale-line" style="width: 96px;">5 km</div><div class="leaflet-control-scale-line" style="width: 92px;">3 mi</div></div></div><div class="leaflet-bottom leaflet-right"><div class="leaflet-control-attribution leaflet-control"><a href="https://leafletjs.com/" title="Leaflet mapping library">Leaflet</a> <span aria-hidden="true">|</span> Map data: © <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, SRTM | Map style: © <a href="https://opentopomap.org/">OpenTopoMap</a> (CC-BY-SA)</div></div></div></div>
+
+    <div class="map-caption">
+      <p>Station source: <a href="https://www.ncei.noaa.gov/access/search/data-search/daily-summaries?stations=USC00456898" target="_blank" rel="noopener">NOAA/NCEI station USC00456898</a>.</p>
+    </div>
+  </main>
+
+  <script src="./rain_para_sm_map_files/leaflet.js.download" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    // Coordinates according to the noaa website (not super accurate, but close enough for mapping?) 
+    // https://www.ncdc.noaa.gov/cdo-web/datasets/GHCND/stations/GHCND:USC00456898/detail
+    // The ghcnd code for the Paradise weather station is USC00456898. It's what I mostly use in the api, but coords are easier in this case for the map.
+    // 46.78639 N, -121.74222 W; elevation 1,650.5 m.
+    
+    const paradiseStation = [46.78639, -121.74222];
+    
+    
+    // added summit for reference? idk, seems like it might be useful for context? also bc the weather station is quite low and will not represent (accurately) the conditions at the summit
+    const summit = [46.8523, -121.7603];
+    
+
+    const map = L.map('rainier-map', {
+      scrollWheelZoom: true,
+      preferCanvas: true
+    });
+
+    const topo = L.tileLayer('https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png', {
+      maxZoom: 17,
+      attribution: 'Map data: &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, SRTM | Map style: &copy; <a href="https://opentopomap.org/">OpenTopoMap</a> (CC-BY-SA)'
+    });
+    
+    // starting zoom levels 17 and 19, will likely adjust later
+    const standard = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+    });
+
+    // terrain is the default. havent been able to get the standard one to work, might comment out?
+    topo.addTo(map);
+    L.control.layers({
+      'Topographic terrain': topo //,
+      //'Standard map': standard
+    }, {}, { collapsed: false }).addTo(map);
+
+    // begin code from osm examples
+    function pointIcon(color) {
+      return L.divIcon({
+        className: '',
+        html: `<span style="display:block;width:17px;height:17px;background:${color};border:3px solid #fff;border-radius:50%;box-shadow:0 1px 6px #26342f66"></span>`,
+        iconSize: [17, 17],
+        iconAnchor: [8.5, 8.5]
+      });
+    }
+
+
+    //marker pts 
+    // colors: dark/muted: #24312e, red: #ad493b, green: #27685c, blue: #3498db
+    L.marker(summit, { icon: pointIcon('#24312e'), title: 'Mount Rainier summit' })
+      .addTo(map)
+      .bindPopup(
+        '<b>Mount Rainier summit</b><br>' +
+        'Elevation: approximately 14,410 ft (4,392 m)<br>' +
+        '<span class="popup-coord">46.8523° N, 121.7603° W · approximate coordinates</span><br>' +
+        '<a href="https://www.nps.gov/mora/index.htm" target="_blank" rel="noopener">Mount Rainier National Park</a>'
+      );
+
+    L.marker(paradiseStation, { icon: pointIcon('#ad493b'), title: 'NOAA Paradise weather station' })
+      .addTo(map)
+      .bindPopup(
+        '<b>NOAA Rainier Paradise Ranger Station</b><br>' +
+        'Station ID: USC00456898<br>' +
+        'Elevation: 1,650.5 m (about 5,415 ft)<br>' +
+        '<span class="popup-coord">46.78639° N, 121.74222° W</span><br>' +
+        '<a href="https://www.ncei.noaa.gov/cdo-web/datasets/GHCND/stations/GHCND%3AUSC00456898/detail" target="_blank" rel="noopener">NOAA/NCEI station record</a>'
+      );
+
+    // fit map to include both markers with a little nice padding
+    const bounds = L.latLngBounds(summit, paradiseStation);
+    map.fitBounds(bounds.pad(0.65));
+
+    // add scale control and attribution (bc copyright is owedddddd)
+    L.control.scale({ imperial: true, metric: true, maxWidth: 150 }).addTo(map);
+    map.attributionControl.setPrefix('<a href="https://leafletjs.com/" title="Leaflet mapping library">Leaflet</a>');
+  </script>
+
+
+</body></html>
