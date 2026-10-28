@@ -143,7 +143,7 @@
             This project begins with the question: how have recorded
             temperatures (TOBS or Temperature at the Time of Observation) at the Paradise weather station varied over its available observations? Does it suggest a warming trend?
           </p>
-          <p>The paradise sits on Mount Rainier’s southern slopes, just below the summit at 1650 meters and within a steep, mountanous environment. See map below for spatial context. I hypothesize that due to global increasing temperatures, data will show a slight increase in temperature. MAP GOES HERE ASA</p>
+          <p>The paradise sits on Mount Rainier’s southern slopes, just below the summit at 1650 meters and within a steep, mountanous environment. See map below for spatial context. I hypothesize that due to global increasing temperatures, data will show a slight increase in temperature.</p>
           
         </section>
 
@@ -250,6 +250,8 @@
               <li><strong>Consistency:</strong> inconsistency with TOBS (time of observation specifically)</li>
           </ul>
           <p>The coverage of TOBS at Paradise could skew our data significantly. For example, if observations are recorded less in winter due to extreme weather or a different times of the day, perhaps our averages might not accurately represent the actual average annual temperature (inconsistency and missing data). Units could also play a contributing factor. Data is stored in the API in tenths of degrees Celsius, but perhaps early observations could have been recorded in fahrenheit and then converted. This creates accuracy concerns as we do not know how the conversion (if it existed) was carried out, nor do we know the accuracy of the temperature observation device. Next steps could include interpolating our data temporally, transforming our data, or changing methods to reduce the effects of our anomaly. However, we must be careful to avoid cherry-picking or altering our data in a way that may be misinformative.</p>
+          <br> <br>
+          <p>--> I got a little fixated on graphic design here, the maps are made with this cool js program called leaflet, there's a few methods to making py maps and then exporting them to leaflet, but this one was made from a template and then adjusted in js to show detail for Paradise station and Rainier summit. I have a bit of basic documentation in my maps folder under assets, check out my github!</p>
         </section>
 
         <section class="section" id="references">
